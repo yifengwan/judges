@@ -1,2 +1,2 @@
-# judges
-A catalogue of judges in Chinese courts
+# Chinese judges 中国法官目录
+
